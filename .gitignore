@@ -1,0 +1,28 @@
+# Virtual machines / disk images
+*.vdi
+*.vhd
+*.vhdx
+*.vmdk
+*.ova
+*.ovf
+
+# Installation media
+*.iso
+
+# Secrets / credentials
+*.key
+*.pem
+*.pfx
+*.p12
+*.kdbx
+.env
+.env.*
+
+# Logs / temporary files
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Local exports
+AD_Users.csv
