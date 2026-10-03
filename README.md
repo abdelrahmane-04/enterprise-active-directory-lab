@@ -125,6 +125,18 @@ Architecture details: [diagrams/architecture.md](diagrams/architecture.md)
 
 Windows Server · Active Directory · DNS · IPv4 · VirtualBox networking · OUs · Security groups · Domain integration · GPO · NTFS permissions · SMB shares · PowerShell · Event Viewer · Security auditing · AD diagnostics
 
+## AI assistance
+
+This project was designed, built and tested by me as a personal learning lab.
+
+I used **ChatGPT** as a learning and documentation assistant to:
+- clarify Active Directory and Windows Server concepts;
+- troubleshoot configuration issues;
+- review PowerShell commands;
+- help structure and improve the project documentation.
+
+All configurations, tests and validations were performed by me in the lab environment.
+
 ## Author
 
 **Abdelrahmane SHANAN**  
